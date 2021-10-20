@@ -1,0 +1,12 @@
+{
+  "author": "AvalionZ",
+  "version": "1.0.0",
+  "repository": "https://github.com/t2warrior/Iriina-bot.git",
+  "description": "A simple discord music bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "distube": "^3.0.1",
+    "nodemon": "^2.0.14"
+  }
+}
