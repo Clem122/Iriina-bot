@@ -13,4 +13,4 @@ client.once('ready', () => {
 	console.log('Logged in!')
 })
 
-client.login(token)
+client.login(process.env.BOT_TOKEN);
